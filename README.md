@@ -34,8 +34,8 @@ some attributes are required, but others are options that are helpfully broken o
     $scope.myModel = {
     dataTable: [
         ['name', 'age'],
-        ['Jack', '35'],
-        ['Bobby','18'],
+        ['Jack', 35],
+        ['Bobby',18],
     ],
     options:{
             height:'300'
